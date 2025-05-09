@@ -4,7 +4,7 @@ A lightweight implementation of Neural Radiance Fields (NeRF) for novel view syn
 
 ## Overview
 
-TinyNeRF is a simplified version of NeRF that enables the generation of novel views from trained neural radiance fields. This implementation uses a 2-bit quantized model to reduce size while maintaining quality.
+TinyNeRF is a compressed  version of NeRF that enables the generation of novel views from trained neural radiance fields. This implementation uses a 8-bit quantized model to reduce size while maintaining quality.Size of model is reduced by 66%.
 
 ## Project Structure
 
